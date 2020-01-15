@@ -1,4 +1,4 @@
-# vue-app
+# Address Book
 
 ## Project setup
 ```
